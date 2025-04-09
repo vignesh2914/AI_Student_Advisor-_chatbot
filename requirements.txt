@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-core
+python-dotenv
+mysql-connector-python
+SQLAlchemy
+faiss-cpu
+sentence-transformers
+flask
+flask-cors
+openpyxl
+-e .
