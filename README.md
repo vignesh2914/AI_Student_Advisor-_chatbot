@@ -1,4 +1,4 @@
-## **AI Student Advisor** chatbot 
+## **AI Student Advisor** chatbot
 
 Create virtual environment
 
@@ -21,5 +21,6 @@ pip install -r requirements.txt
 Run the app
 
 ```
-streamlit run app.py
+python main.py
+
 ```
